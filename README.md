@@ -1,10 +1,10 @@
 # DonateToReBuildUSAtoday
-Donate to help ReBuildUSAtoday
+Donate to help ReBuildUSAtodayHPAC
 
 This is a repository for those committed to ReBuildUSAtoday!
 I am in to ReBuildUSAtoday! WHAT ABOUT YOU?
 
- https://laurel-smith.github.io/DonateToReBuildUSAtoday/
+ https://laurel-smith.github.io/DonateToReBuildUSAtoday
  
 ONLINE PRIVACY POLICY AGREEMENT
 
