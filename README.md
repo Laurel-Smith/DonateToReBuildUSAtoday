@@ -42,7 +42,7 @@ ReBuildUSAtodayHPAC may disclose your personal information, without prior notice
 
 •      Maintain, safeguard and/or preserve all the rights and/or property of Donation Planet; and
 
-•      Perform under demanding conditions in an effort to safeguard the personal safety of users of www.donationplanet.org and/or the general public.
+•      Perform under demanding conditions in an effort to safeguard the personal safety of users of http://rebuildusa.today and/or the general public.
 
 Children Under Age of 13
 
@@ -50,7 +50,7 @@ ReBuildUSAtodayHPAC does not knowingly collect personal identifiable information
 
 Unsubscribe or Opt-Out
 
-All users and/or visitors to our website have the option to discontinue receiving communication from us and/or reserve the right to discontinue receiving communications by way of email or newsletters. To discontinue or unsubscribe to our website please send an email that you wish to unsubscribe to info@donationplanet.org. If you wish to unsubscribe or opt-out from any third party websites, you must go to that specific website to unsubscribe and/or opt-out.
+All users and/or visitors to our website have the option to discontinue receiving communication from us and/or reserve the right to discontinue receiving communications by way of email or newsletters. To discontinue or unsubscribe to our website please send an email that you wish to unsubscribe to smithie@rebuildusa.today. If you wish to unsubscribe or opt-out from any third party websites, you must go to that specific website to unsubscribe and/or opt-out.
 
 Links to Other Web Sites
 
