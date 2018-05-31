@@ -165,34 +165,28 @@
 <!-- main functionality -->
 <script>
   var current_fs, next_fs,self
-
   $(".btn.btn-next").click(function(){
-
     current_fs = $(this).parent().parent();
     next_fs = $(this).parent().parent().next();
-
     current_fs.hide();
     next_fs.fadeIn();
-
     $("#progress-bar > div").eq(next_fs.index()).addClass("active");
   });
-
   $("body").on("click", ".bar.active", function(){
     if ($(this).index() != $("fieldset:visible").index()){
       $("fieldset:visible").hide();
       $("fieldset").eq($(this).index()).fadeIn();
     };
   });
-
   $(".btn.btn-number").on("click", function(){
     $(this).parent().children().removeClass("selected");
     $(this).addClass("selected");
     $(this).parent().parent().find(".btn.btn-next").click();
   });
-
   $(".set-amount").on("click", function(){
     $(this).parent().children().removeClass("selected");
   });
+
 
 </script>
 </html>
